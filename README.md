@@ -140,3 +140,10 @@ Useful Tools or APIs
 8. Grakn KGLIB (Knowledge Graph Library) [[GitHub](https://github.com/graknlabs/kglib)]
 9. SPASQL server on Freebase [[GitHub](https://github.com/xwhan/Freebase-SPARQL-server-on-AWS)] [[About VOS](http://vos.openlinksw.com/owiki/wiki/VOS)]
 10. LATEX Code Search [[Link](https://www.latex4technics.com/codesearch)]
+
+
+
+
+
+- https://github.com/IBM/build-knowledge-base-with-domain-specific-documents
+- https://github.com/HaoWeiHe/Knowledge-Graph
